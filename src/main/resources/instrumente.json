@@ -1,0 +1,59 @@
+[
+  [
+    "ex2.Chitara",
+    {
+      "producator": "Gibson",
+      "pret": 2000.0,
+      "tipChitara": "Acustica",
+      "nr_corzi": 12
+    }
+  ],
+  [
+    "ex2.SetTobe",
+    {
+      "producator": "Pearl",
+      "pret": 2000.0,
+      "tipTobe": "Acustice",
+      "nr_tobe": 5,
+      "nr_cinele": 3
+    }
+  ],
+  [
+    "ex2.SetTobe",
+    {
+      "producator": "Mapex",
+      "pret": 11800.0,
+      "tipTobe": "Electronice",
+      "nr_tobe": 4,
+      "nr_cinele": 2
+    }
+  ],
+  [
+    "ex2.Chitara",
+    {
+      "producator": "Ibanez",
+      "pret": 800.0,
+      "tipChitara": "Clasica",
+      "nr_corzi": 4
+    }
+  ],
+  [
+    "ex2.Chitara",
+    {
+      "producator": "Fender",
+      "pret": 1500.0,
+      "tipChitara": "Electrica",
+      "nr_corzi": 6
+    }
+  ],
+  [
+    "ex2.SetTobe",
+    {
+      "producator": "DW_Drums",
+      "pret": 2500.0,
+      "tipTobe": "Acustice",
+      "nr_tobe": 6,
+      "nr_cinele": 4
+    }
+  ]
+]
